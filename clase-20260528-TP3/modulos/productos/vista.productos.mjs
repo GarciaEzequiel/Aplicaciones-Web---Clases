@@ -1,0 +1,1 @@
+// Estructurar los datos que se envían al cliente
